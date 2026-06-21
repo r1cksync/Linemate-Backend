@@ -2,6 +2,15 @@
 
 Event Booking System REST API — built with Node.js, Express, and MongoDB.
 
+## 🔗 Links
+
+| Resource | URL |
+|---|---|
+| **Deployed Backend** | [https://backend-chi-ebon-95.vercel.app](https://backend-chi-ebon-95.vercel.app) |
+| **Deployed Frontend** | [https://frontend-six-delta-72.vercel.app](https://frontend-six-delta-72.vercel.app) |
+| **Frontend GitHub Repo** | [github.com/r1cksync/Linemate-Frontend](https://github.com/r1cksync/Linemate-Frontend) |
+| **Backend GitHub Repo** | [github.com/r1cksync/Linemate-Backend](https://github.com/r1cksync/Linemate-Backend) |
+
 ## Tech Stack
 
 - **Runtime**: Node.js
