@@ -11,12 +11,5 @@
       "src": "/(.*)",
       "dest": "index.js"
     }
-  ],
-  "env": {
-    "MONGODB_URI": "@mongodb-uri",
-    "JWT_SECRET": "@jwt-secret",
-    "GROQ_API_KEY": "@groq-api-key",
-    "CLIENT_URL": "@client-url",
-    "NODE_ENV": "production"
-  }
+  ]
 }

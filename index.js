@@ -22,7 +22,8 @@ const allowedOrigins = [
   'http://localhost:5173',
   'http://localhost:3000',
   'https://linemate-frontend.vercel.app',
-  'https://linemate.vercel.app'
+  'https://linemate.vercel.app',
+  'https://frontend-six-delta-72.vercel.app'
 ].filter(Boolean);
 
 app.use(cors({
